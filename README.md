@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://fitbuddy-wellbeing-hub.com
+**URL**: (https://fit-buddy-wellness-hub.vercel.app/)
 
 ## How can I edit this code?
 
